@@ -3,9 +3,9 @@
 
 # Sobre o projeto
 
-Link do jogo: https://super-contador.pages.dev/
+Link do projeto: https://super-contador.pages.dev/
 
-Este jogo é uma aplicação front-end, tem o objetivo de caucular o numero quer comecar, onde terminar e de quantas casas pular 
+Este projeto é uma aplicação front-end, tem o objetivo de caucular o numero quer comecar, onde terminar e de quantas casas pular 
 
 ## Layout computador
 ![Web 2](https://github.com/marciosenaf/super_contador/blob/main/computer.readme.png)
